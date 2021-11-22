@@ -1,6 +1,6 @@
 <h1 align="center">Crachá DoWhile 2021 </h1>
 <p align="center">
-  <img src=".github/badge-nlw.png" width="80%">
+  <img src=".github/nlw-badge.png" width="80%">
 </p>
 <br>
 <h2>💻 Sobre </h2>
