@@ -3,13 +3,13 @@
   <img src=".github/nlw-badge.png" width="80%">
 </p>
 <br>
-<h2>💻 Sobre </h2>
+<h2>🎫 Sobre </h2>
 <p>Projeto desenvolvido durante a Next level week (NLW) da Rocketseat, um crachá para participar do evento DoWhile2 2021, que acontece em dezembro.<br>
 Você pode acessar o site do projeto através deste link: <a href="https://matheus-pazinati.github.io/badge-nlw/">Crachá DoWhile 2021</a>
  </p>
 <br>
 <h2>🎯 Objetivo </h2>
-<p>Criar um projeto onde eu consiga mostrar algumas informações no crachá (foto, nome, links, biografia) consumindo a API do Github.</p>
+<p>Criar um projeto onde eu consiga mostrar informações no crachá (foto, nome, links, biografia) consumindo a API pública do Github. Além disso, fazer o layout do projeto seguindo fielmente o que o designer definiu no Figma.</p>
 <br>
 <h2>🚀 Tecnologias utilizadas</h2>
 <ul>
