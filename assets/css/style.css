@@ -5,7 +5,7 @@ body {
   display: grid;
   place-items: center;
   color: #E1E1E6;
-  background: url(./Images/background.png) no-repeat top/cover;
+  background: url(../images/background.png) no-repeat top/cover;
   background-color: #121214;
 }
 a {
@@ -13,7 +13,7 @@ a {
   color: #E1E1E6;
 }
 main {
-  background: url(./Images/background-card.png) no-repeat center;
+  background: url(../images/background-card.png) no-repeat center;
   width: 22.375rem;
   height: 33.75rem;
   text-align: center;
