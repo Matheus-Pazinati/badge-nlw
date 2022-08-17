@@ -1,0 +1,21 @@
+{
+  "name": "nlw-heat",
+  "version": "1.0.0",
+  "description": "Site do crachá para participar do DoWhile 2021",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Matheus-Pazinati/badge-nlw.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Matheus-Pazinati/badge-nlw/issues"
+  },
+  "homepage": "https://github.com/Matheus-Pazinati/badge-nlw#readme"
+}
