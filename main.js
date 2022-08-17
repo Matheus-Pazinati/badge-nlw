@@ -1,19 +1,4 @@
-const redesSociais = { //Objeto que guarda os nomes de usuário de cada plataforma
-  github: "Matheus-Pazinati",
-  youtube: "rocketseat",
-  instagram: "rocketseat_oficial",
-  facebook: "rocketseat",
-  twitter: "rocketseat"
-}
 
-let sociais = document.querySelectorAll('.links-redes') //Variável pegando todas as li de redes sociais
-sociais.forEach(defineNovaRede)
-
-function defineNovaRede(social){ //Para cada rede social, execute está função
-  let plataforma = social.id //O id é o nome da rede social
-  let linkRede = social.children[0] //Guardando a tag "a"
-  linkRede.href = `https://${plataforma}.com/${redesSociais[plataforma]}` //Conteudo do href da tag a
-}
 
 function pegaDadosGithub(){ //Função para pegar os dados da API do Github
   const url = `https://api.github.com/users/${redesSociais.github}` //Url da api, passando o nome do usuário
@@ -31,4 +16,3 @@ function pegaDadosGithub(){ //Função para pegar os dados da API do Github
     })
 }
 pegaDadosGithub()
-
